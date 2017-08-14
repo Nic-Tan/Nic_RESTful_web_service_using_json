@@ -1,0 +1,18 @@
+*.class
+*.log
+classes/
+/build
+/target/
+bin
+.settings
+.springBeans
+build.sh
+
+
+# Eclipse artifacts
+.classpath
+.project
+
+# Package Files #
+*.jar
+*.war
